@@ -1,0 +1,22 @@
+{
+  "name": "nodemysql",
+  "version": "1.0.0",
+  "description": "Sample app for using mysql with node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "excel-to-json": "^1.0.0",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "mysql": "^2.13.0",
+    "node-excel-to-json": "0.0.3",
+    "xlsx-to-json-lc": "^0.5.0"
+  }
+}
